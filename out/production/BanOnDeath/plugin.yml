@@ -1,0 +1,6 @@
+name: Ban0nDeath
+author: bejker321
+main: com.bejker.BanOnDeath.Main
+version: 0.1
+api-version: 1.18
+commands:
